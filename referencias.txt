@@ -1,0 +1,55 @@
+1- Tema
+“Desenvolvimento de um Sistema de Monitoramento e Controle Automatizado para 
+Aviários de Produção de Ovos com Ênfase no Bem-Estar Animal da Galinha e Otimização dos 
+Processos de Produção”
+
+2- Professor Orientador (Possível)
+Para a minha “possível” possibilidade de realizar este tema de TCC minha escolha dos 
+professores seriam: Alencar Franco de Souza, Israel Teodoro Mendes e Rosana Áurea 
+Tonetti Massahud como possíveis orientadores para o meu projeto de TCC,
+"Desenvolvimento de um Sistema de Monitoramento e Controle Automatizado para Aviários 
+de Produção de Ovos com Ênfase no Bem-Estar Animal da Galinha e Otimização dos 
+Processos de Produção". Acredito que suas experiências e conhecimentos nas áreas de 
+ambos os três estão relacionadas ao tema em que escolhi.
+
+3- Palavras-Chaves
+Estas seriam as palavras-chaves para pesquisa do meu possível TCC.
+• Sistema de monitoramento;
+• Controle automatizado;
+• Aviários de produção de ovos;
+• Bem-estar animal;
+• Galinhas poedeiras;
+• Otimização de processos;
+• Automação na avicultura;
+• Qualidade de vida animal;
+• Eficiência produtiva;
+• Tecnologia na indústria avícola.
+
+4- Referências
+
+DANIELE et al. DESEMPENHO E QUALIDADE DE OVOS DE GALINHAS 
+POEDEIRAS CRIADAS EM GAIOLAS ENRIQUECIDAS E AMBIENTE 
+CONTROLADO. Revista Brasileira de Engenharia Agricola e Ambiental, v. 18, n. 
+11, p. 1186–1191, 1 nov. 2014. Disponível em: <
+https://doi.org/10.1590/1807-1929/agriambi.v18n11p1186-1191>. Acesso em: 31 mar. 
+2024.
+
+BARRIQUELLO, J. AUTOMAÇÃO DE SISTEMA DE DISTRIBUIÇÃO DE 
+RAÇÃO EM AVIÁRIOS DE PRODUÇÃO DE OVOS PARA 
+INCUBATÓRIO. Repositorio.upf.br, 2019. Disponível em: <
+http://repositorio.upf.br/handle/riupf/2082>. Acesso em: 31 mar. 2024.
+
+SANTOS et al. REFLEXOS DA TECNOLOGIA DE AUTOMAÇÃO NOS 
+RESULTADOS ECONÔMICOS DE AVIÁRIOS INTEGRADOS A UMA 
+EMPRESA DO RAMO AVÍCOLA. Disponível em: 
+<https://anaiscbc.abcustos.org.br/anais/article/view/4306>. Acesso em: 31 mar. 2024.
+
+CATANEO, L. G. CONTADOR ELETRÔNICO DE OVOS ATRAVÉS DE 
+IMAGENS. Repositorio.upf.br, 2017. Disponível em: <
+http://repositorio.upf.br/handle/riupf/1231>. Acesso em: 31 mar. 2024.
+
+DELFINO, J.; FILHO, B. AVALIAÇÃO DO BEM-ESTAR DE AVES POEDEIRAS 
+EM DIFERENTES SISTEMAS DE PRODUÇÃO E CONDIÇÕES AMBIENTAIS, 
+UTILIZANDO ANÁLISE DE IMAGENS. [s.l: s.n.]. Disponível em: 
+<https://www.teses.usp.br/teses/disponiveis/11/11131/tde-11052005-
+144156/publico/jose>
